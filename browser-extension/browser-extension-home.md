@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-The GitKraken Browser Extension bridges your GitHub, GitLab, Bitbucket, or Azure DevOps repositories to GitKraken Client and GitLens in Visual Studio Code. With this browser extension enabled, you get options inside github.com and gitlab.com to open repositories and commits in GitKraken Client or GitLens in Visual Studio Code.
+The GitKraken Browser Extension bridges your GitHub, GitLab, Bitbucket, or Azure DevOps repositories to GitKraken Client and GitLens in Visual Studio Code. With this browser extension enabled, you get options inside github.com, gitlab.com, bitbucket.org and dev.azure.com to open repositories and commits in GitKraken Client or GitLens in Visual Studio Code.
 
 ## Opening in GitKraken Client
 
@@ -34,7 +34,7 @@ To add the browser extension, navigate to the following link for your respective
 * [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl)
 
 <div class='callout callout--basic'>
-    <p>For Firefox, you will need to manually allow permissions for the respective service in order to see these features. This can be done by selecting the extension icon when on the service, then selecting the gear icon, then selecting <kdb>Always Allon on {service}</kdb>.</p>
+    <p>For Firefox, you will need to manually allow permissions for the respective service in order to see these features. This can be done by selecting the extension icon when on the site for the service, then selecting the gear icon, and then selecting <kbd>Always Allon on {service}</kbd>.</p>
 
     <p><img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered img-responsive center'></p>
 </div>

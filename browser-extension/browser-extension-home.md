@@ -48,10 +48,10 @@ Open with GitKraken: From GitHub's Code and GitLab’s Clone dropdowns, you can 
 
 <img src="/wp-content/uploads/be-clone.png" class="img-bordered img-responsive center">
 
-Open Compairison in Visual Studio Code: From the pull request view on GitHub or GitLab, you can select "Open Comparison in VS Code" from the Code dropdowns for an easy transition into GitLens in Visual Studio Code.
+Open Compairison in Visual Studio Code: From the pull request view on GitHub, GitLab, Bitbucket, or Azure DevOps, you can select "Open Comparison in VS Code" from the Code dropdowns for an easy transition into GitLens in Visual Studio Code.
 
 <img src="/wp-content/uploads/be-pull-request.png" class="img-bordered img-responsive center">
 
-Open with GitKraken button on commit pages: From a commit page on GitHub or GitLab, you can select "Open with GitKraken".
+Open with GitKraken button on commit pages: The GitKraken Browser extension adds a dedicated "Open with GitKraken" button to GitHub's, GitLab’s, Bitbucket's, or Azure DevOp's commit pages.
 
 <img src="/wp-content/uploads/be-commit.png" class="img-bordered img-responsive center">

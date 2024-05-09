@@ -14,7 +14,7 @@ The GitKraken Browser Extension bridges the gap between your repositories on Git
 ## Requirements
 
 * Google Chrome, Mozilla Firefox or Microsoft Edge
-* [GitKraken Client](https://www.gitkraken.com/git-client/try-free) or [GitLens](https://www.gitkraken.com/gitlens/try-free) for Visual Studio Code
+* [GitKraken Desktop](https://www.gitkraken.com/git-client/try-free) or [GitLens](https://www.gitkraken.com/gitlens/try-free) for Visual Studio Code
 
 ***
 
@@ -38,7 +38,7 @@ To add the browser extension, navigate to the following link for your respective
 
 ### Code Suggest
 
-GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Client, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on GitKraken Desktop, GitLens, or gitkraken.dev. 
+GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Desktop, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on GitKraken Desktop, GitLens, or gitkraken.dev. 
 
 <img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered img-responsive center">
 
@@ -52,7 +52,7 @@ Select the pull request #number to open the pull request on your hosting service
 
 ### Opening repositories, comparisons, and commits
 
-Open with GitKraken: From GitHub's Code and GitLab’s Clone dropdowns, you can open a repository directly in GitKraken Client or with GitLens in Visual Studio Code.
+Open with GitKraken: From GitHub's Code and GitLab’s Clone dropdowns, you can open a repository directly in GitKraken Desktop or with GitLens in Visual Studio Code.
 
 <img src="/wp-content/uploads/be-clone.png" class="img-bordered img-responsive center">
 
@@ -64,7 +64,7 @@ Open with GitKraken button on commit pages: The GitKraken Browser extension adds
 
 <img src="/wp-content/uploads/be-commit.png" class="img-bordered img-responsive center">
 
-### Opening in GitKraken Client
+### Opening in GitKraken Desktop
 
 <img src='/wp-content/uploads/gkc-be-open-repo.gif' class='img-bordered img-responsive center'>
 

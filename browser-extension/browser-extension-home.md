@@ -38,7 +38,7 @@ To add the browser extension, navigate to the following link for your respective
 
 ### Code Suggest
 
-GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Desktop, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on GitKraken Desktop, GitLens, or gitkraken.dev. 
+GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Desktop, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on [GitKraken Desktop](), [GitLens](gitlens/gitlens-features/#code-suggest-preview), or [gitkraken.dev](/gk-dev-home/#code-suggest). 
 
 <img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered img-responsive center">
 

@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-The GitKraken Browser Extension bridges the gap between your repositories on GitHub, GitLab, Bitbucket, or Azure DevOps, and the GitKraken DevEx platform. It allows you to easily access pull requests in an organized view via the launchpad to know what needs to be worked on next and begin working with GitKraken. 
+The GitKraken Browser Extension bridges the gap between your repositories on GitHub, GitLab, Bitbucket, or Azure DevOps, and the GitKraken DevEx platform. It allows you to easily access pull requests in an organized view via the launchpad to know what needs to be worked on next and begin working with the GitKraken DevEx platform. 
 
 ***
 
@@ -38,7 +38,7 @@ To add the browser extension, navigate to the following link for your respective
 
 ### Code Suggest
 
-GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Desktop, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on [GitKraken Desktop](/gitkraken-client/pull-requests/#review-code-and-suggest-changes), [GitLens](gitlens/gitlens-features/#code-suggest-preview), or [gitkraken.dev](/gk-dev-home/#code-suggest). 
+GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Desktop, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on [GitKraken Desktop](/gitkraken-client/pull-requests/#review-code-and-suggest-changes), [GitLens](gitlens/gitlens-features/#code-suggest-preview), or [gitkraken.dev](/gk-dev/gk-dev-home/#code-suggest). 
 
 <img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered img-responsive center">
 
@@ -52,15 +52,15 @@ Select the pull request #number to open the pull request on your hosting service
 
 ### Opening repositories, comparisons, and commits
 
-Open with GitKraken: From GitHub's Code and GitLab’s Clone dropdowns, you can open a repository directly in GitKraken Desktop or with GitLens in Visual Studio Code.
+**Open with GitKraken**: From GitHub's Code and GitLab’s Clone dropdowns, you can open a repository directly in GitKraken Desktop or with GitLens in Visual Studio Code.
 
 <img src="/wp-content/uploads/be-clone.png" class="img-bordered img-responsive center">
 
-Open Comparison in Visual Studio Code: From the pull request view on GitHub, GitLab, Bitbucket, or Azure DevOps, you can select "Open Comparison in VS Code" from the Code dropdowns for an easy transition into GitLens in Visual Studio Code.
+**Open Comparison in Visual Studio Code**: From the pull request view on GitHub, GitLab, Bitbucket, or Azure DevOps, you can select "Open Comparison in VS Code" from the Code dropdowns for an easy transition into GitLens in Visual Studio Code.
 
 <img src="/wp-content/uploads/be-pull-request.png" class="img-bordered img-responsive center">
 
-Open with GitKraken button on commit pages: The GitKraken Browser extension adds a dedicated "Open with GitKraken" button to GitHub's, GitLab’s, Bitbucket's, or Azure DevOp's commit pages.
+**Open with GitKraken button on commit pages**: The GitKraken Browser extension adds a dedicated "Open with GitKraken" button to GitHub's, GitLab’s, Bitbucket's, or Azure DevOp's commit pages.
 
 <img src="/wp-content/uploads/be-commit.png" class="img-bordered img-responsive center">
 

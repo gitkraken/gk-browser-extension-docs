@@ -1,36 +1,40 @@
 ---
-
 title: GitKraken Browser Extension
-description: Learn all about the GitKraken Browser Extension.
+description: Discover how to install and use the GitKraken Browser Extension to streamline pull request workflows in GitHub, GitLab, Bitbucket, and Azure DevOps.
 taxonomy:
     category: browser-extension
-
 ---
 
-The GitKraken Browser Extension bridges the gap between your repositories on GitHub, GitLab, Bitbucket, or Azure DevOps, and the GitKraken DevEx platform. It allows you to easily access pull requests in an organized view via the launchpad to know what needs to be worked on next and begin working with the GitKraken DevEx platform. 
+<kbd>Last updated: June 2025</kbd> 
+
+The **GitKraken Browser Extension** connects your Git repositories on GitHub, GitLab, Bitbucket, or Azure DevOps with the GitKraken DevEx platform. It helps you track and manage pull requests with a unified view in Launchpad, simplifying what to work on next.
 
 ***
 
 ## Requirements
 
-* Google Chrome, Mozilla Firefox or Microsoft Edge
+* Google Chrome, Mozilla Firefox, or Microsoft Edge
 * [GitKraken Desktop](https://www.gitkraken.com/git-client/try-free) or [GitLens](https://www.gitkraken.com/gitlens/try-free) for Visual Studio Code
 
 ***
 
 ## How to add the extension
 
-To add the browser extension, navigate to the following link for your respective browser and select `Add to [Browser]` or `Get`:
-* [Google Chrome](https://chrome.google.com/webstore/detail/gitkraken/egmopflbpgdjmmkeabegohajillnebco)
-* [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitkraken-browser-extension/)
-* [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl)
+To install the GitKraken Browser Extension:
+
+1. Go to your browser's extension store:
+   * <a href="https://chrome.google.com/webstore/detail/gitkraken/egmopflbpgdjmmkeabegohajillnebco">Add GitKraken to Chrome</a>
+   * <a href="https://addons.mozilla.org/en-US/firefox/addon/gitkraken-browser-extension/">Add GitKraken to Firefox</a>
+   * <a href="https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl">Add GitKraken to Edge</a>
+2. Select <kbd>Add to [Browser]</kbd> or <kbd>Get</kbd>.
 
 <div class='callout callout--basic'>
-    <p>For Firefox, you will need to manually allow permissions for the respective service in order to see these features. This can be done by selecting the extension icon when on the site for the service, then selecting the gear icon, and then selecting <kbd>Always Allow on {service}</kbd>.</p>
-
-    <p><img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered img-responsive center'></p>
+    <p>For Firefox, you must manually allow permissions for each Git service. Select the extension icon while on the service’s site, click the gear icon, then choose <kbd>Always Allow on {service}</kbd>.</p>
+    <figure>
+        <img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered img-responsive center'>
+        <figcaption style="color: #888; text-align: center;">Allowing service permissions in Firefox</figcaption>
+    </figure>
 </div>
-
 
 ***
 
@@ -38,36 +42,68 @@ To add the browser extension, navigate to the following link for your respective
 
 ### Code Suggest
 
-GitKraken Code Suggest simplifies code review by allowing you to make suggestions and edits across the entire project, not just on the lines that were changed, within GitLens, GitKraken Desktop, and gitkraken.dev. When a Pull Request is open, you can make suggestions to the pull request that others can then review and accept to include in the pull request. When there are code suggestions on a pull request, you can select `Code Suggestions` to open and review it on [GitKraken Desktop](/gitkraken-client/pull-requests/#review-code-and-suggest-changes), [GitLens](gitlens/gitlens-features/#code-suggest-preview), or [gitkraken.dev](/gk-dev/gk-dev-home/#code-suggest). 
+Code Suggest allows you to suggest and edit code across the entire project—not just changed lines—when reviewing pull requests in GitLens, GitKraken Desktop, or gitkraken.dev.
 
-<img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered img-responsive center">
+You can:
+- Suggest code changes in open pull requests.
+- Review and accept suggestions in:
+  - [GitKraken Desktop](/gitkraken-client/pull-requests/#review-code-and-suggest-changes)
+  - [GitLens](gitlens/gitlens-features/#code-suggest-preview)
+  - [gitkraken.dev](/gk-dev/gk-dev-home/#code-suggest)
+
+<figure>
+    <img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered img-responsive center">
+    <figcaption style="color: #888; text-align: center;">Suggest code edits across any part of the PR</figcaption>
+</figure>
 
 ### Launchpad
 
-The Launchpad is a unified dashboard that consolidates pull requests across all of the repositories and groups them based on the state of the pull request - Ready to Merge, Unassigned Reviewers, Resolve Conflicts, Needs My Review, Suggested Changes, Reviewer Commented, Waiting for Review, Draft, and Other. 
+The Launchpad dashboard groups pull requests by status: Ready to Merge, Needs My Review, Draft, and more.
 
-Select the pull request #number to open the pull request on your hosting service or select the GitKraken logo to open the repository in GitKraken Desktop or GitLens.
+You can:
+- Open the pull request on the hosting service by selecting the PR number.
+- Open the repo in GitKraken Desktop or GitLens by selecting the GitKraken logo.
 
-<img src="/wp-content/uploads/gkbe-launchpad.png" class="img-bordered img-responsive center">
+<figure>
+    <img src="/wp-content/uploads/gkbe-launchpad.png" class="img-bordered img-responsive center">
+    <figcaption style="color: #888; text-align: center;">See pull requests grouped by workflow status</figcaption>
+</figure>
 
-### Opening repositories, comparisons, and commits
+### Open repositories, comparisons, and commits
 
-**Open with GitKraken**: From GitHub's Code and GitLab’s Clone dropdowns, you can open a repository directly in GitKraken Desktop or with GitLens in Visual Studio Code.
+**Open with GitKraken**: Use GitHub's and GitLab’s Clone dropdowns to open the repository in GitKraken Desktop or GitLens.
 
-<img src="/wp-content/uploads/be-clone.png" class="img-bordered img-responsive center">
+<figure>
+    <img src="/wp-content/uploads/be-clone.png" class="img-bordered img-responsive center">
+    <figcaption style="color: #888; text-align: center;">Open repositories directly in GitKraken or GitLens</figcaption>
+</figure>
 
-**Open Comparison in Visual Studio Code**: From the pull request view on GitHub, GitLab, Bitbucket, or Azure DevOps, you can select "Open Comparison in VS Code" from the Code dropdowns for an easy transition into GitLens in Visual Studio Code.
+**Open Comparison in Visual Studio Code**: From a pull request view, select "Open Comparison in VS Code" for a seamless transition into GitLens.
 
-<img src="/wp-content/uploads/be-pull-request.png" class="img-bordered img-responsive center">
+<figure>
+    <img src="/wp-content/uploads/be-pull-request.png" class="img-bordered img-responsive center">
+    <figcaption style="color: #888; text-align: center;">Open PR comparisons directly in VS Code</figcaption>
+</figure>
 
-**Open with GitKraken button on commit pages**: The GitKraken Browser extension adds a dedicated "Open with GitKraken" button to GitHub's, GitLab’s, Bitbucket's, or Azure DevOp's commit pages.
+**Open with GitKraken on commit pages**: Adds a button on commit pages of supported Git services.
 
-<img src="/wp-content/uploads/be-commit.png" class="img-bordered img-responsive center">
+<figure>
+    <img src="/wp-content/uploads/be-commit.png" class="img-bordered img-responsive center">
+    <figcaption style="color: #888; text-align: center;">Quickly access commits using the extension</figcaption>
+</figure>
 
 ### Opening in GitKraken Desktop
 
-<img src='/wp-content/uploads/gkc-be-open-repo.gif' class='img-bordered img-responsive center'>
+<figure>
+    <img src='/wp-content/uploads/gkc-be-open-repo.gif' class='img-bordered img-responsive center'>
+    <figcaption style="color: #888; text-align: center;">Open repositories directly in GitKraken Desktop</figcaption>
+</figure>
 
 ### Opening in GitLens
 
-<img src='/wp-content/uploads/gl-be-open-repo.gif' class='img-bordered img-responsive center'>
+<figure>
+    <img src='/wp-content/uploads/gl-be-open-repo.gif' class='img-bordered img-responsive center'>
+    <figcaption style="color: #888; text-align: center;">Open repositories directly in GitLens</figcaption>
+</figure>
+
+

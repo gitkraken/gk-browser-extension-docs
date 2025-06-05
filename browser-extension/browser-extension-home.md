@@ -31,7 +31,7 @@ To install the GitKraken Browser Extension:
 <div class='callout callout--basic'>
     <p>For Firefox, you must manually allow permissions for each Git service. Select the extension icon while on the service’s site, click the gear icon, then choose <kbd>Always Allow on {service}</kbd>.</p>
     <figure>
-        <img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered img-responsive center'>
+        <img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered help-center-img center'>
         <figcaption style="color: #888; text-align: center;">Allowing service permissions in Firefox</figcaption>
     </figure>
 </div>
@@ -52,7 +52,7 @@ You can:
   - [gitkraken.dev](/gk-dev/gk-dev-home/#code-suggest)
 
 <figure>
-    <img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered img-responsive center">
+    <img src="/wp-content/uploads/gkbe-code-suggest.png" class="img-bordered help-center-img center">
     <figcaption style="color: #888; text-align: center;">Suggest code edits across any part of the PR</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ You can:
 - Open the repo in GitKraken Desktop or GitLens by selecting the GitKraken logo.
 
 <figure>
-    <img src="/wp-content/uploads/gkbe-launchpad.png" class="img-bordered img-responsive center">
+    <img src="/wp-content/uploads/gkbe-launchpad.png" class="img-bordered help-center-img center">
     <figcaption style="color: #888; text-align: center;">See pull requests grouped by workflow status</figcaption>
 </figure>
 
@@ -74,35 +74,35 @@ You can:
 **Open with GitKraken**: Use GitHub's and GitLab’s Clone dropdowns to open the repository in GitKraken Desktop or GitLens.
 
 <figure>
-    <img src="/wp-content/uploads/be-clone.png" class="img-bordered img-responsive center">
+    <img src="/wp-content/uploads/be-clone.png" class="img-bordered help-center-img center">
     <figcaption style="color: #888; text-align: center;">Open repositories directly in GitKraken or GitLens</figcaption>
 </figure>
 
 **Open Comparison in Visual Studio Code**: From a pull request view, select "Open Comparison in VS Code" for a seamless transition into GitLens.
 
 <figure>
-    <img src="/wp-content/uploads/be-pull-request.png" class="img-bordered img-responsive center">
+    <img src="/wp-content/uploads/be-pull-request.png" class="img-bordered help-center-img center">
     <figcaption style="color: #888; text-align: center;">Open PR comparisons directly in VS Code</figcaption>
 </figure>
 
 **Open with GitKraken on commit pages**: Adds a button on commit pages of supported Git services.
 
 <figure>
-    <img src="/wp-content/uploads/be-commit.png" class="img-bordered img-responsive center">
+    <img src="/wp-content/uploads/be-commit.png" class="img-bordered help-center-img center">
     <figcaption style="color: #888; text-align: center;">Quickly access commits using the extension</figcaption>
 </figure>
 
 ### Opening in GitKraken Desktop
 
 <figure>
-    <img src='/wp-content/uploads/gkc-be-open-repo.gif' class='img-bordered img-responsive center'>
+    <img src='/wp-content/uploads/gkc-be-open-repo.gif' class='img-bordered help-center-img center'>
     <figcaption style="color: #888; text-align: center;">Open repositories directly in GitKraken Desktop</figcaption>
 </figure>
 
 ### Opening in GitLens
 
 <figure>
-    <img src='/wp-content/uploads/gl-be-open-repo.gif' class='img-bordered img-responsive center'>
+    <img src='/wp-content/uploads/gl-be-open-repo.gif' class='img-bordered help-center-img center'>
     <figcaption style="color: #888; text-align: center;">Open repositories directly in GitLens</figcaption>
 </figure>
 

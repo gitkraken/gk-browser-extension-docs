@@ -3,6 +3,12 @@ title: GitKraken Browser Extension
 description: Discover how to install and use the GitKraken Browser Extension to streamline pull request workflows in GitHub, GitLab, Bitbucket, and Azure DevOps.
 taxonomy:
     category: browser-extension
+custom_fields:
+    nav_category: "browser-extension-home"
+    nav_label: "GitKraken Browser Extension"
+    nav_order: 10
+    nav_parent: ""
+    page_type: "main-index"
 ---
 
 <kbd>Last updated: June 2025</kbd> 

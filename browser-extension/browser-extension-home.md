@@ -46,13 +46,12 @@ To install the GitKraken Browser Extension:
    * <a href="https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl">Add GitKraken to Edge</a>
 2. Select <kbd>Add to [Browser]</kbd> or <kbd>Get</kbd>.
 
-<div class='callout callout--basic'>
-    <p>For Firefox, you must manually allow permissions for each Git service. Select the extension icon while on the service’s site, click the gear icon, then choose <kbd>Always Allow on {service}</kbd>.</p>
-    <figure>
-        <img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered help-center-img center'>
-        <figcaption style="color: #888; text-align: center;">Allowing service permissions in Firefox</figcaption>
-    </figure>
-</div>
+> **Note:** For Firefox, you must manually allow permissions for each Git service. Select the extension icon while on the service’s site, click the gear icon, then choose <kbd>Always Allow on {service}</kbd>.
+
+<figure>
+    <img src='/wp-content/uploads/be-firefox-allow.png' class='img-bordered help-center-img center'>
+    <figcaption style="color: #888; text-align: center;">Allowing service permissions in Firefox</figcaption>
+</figure>
 
 ***
 

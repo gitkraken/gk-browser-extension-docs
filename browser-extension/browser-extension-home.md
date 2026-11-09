@@ -64,8 +64,8 @@ Code Suggest allows you to suggest and edit code across the entire project—not
 You can:
 - Suggest code changes in open pull requests.
 - Review and accept suggestions in:
-  - [GitKraken Desktop](/gitkraken-client/pull-requests/#review-code-and-suggest-changes)
-  - [GitLens](gitlens/gitlens-features/#code-suggest-preview)
+  - [GitKraken Desktop](/gitkraken-desktop/pull-requests/#how-to-accept-or-reject-suggestions)
+  - [GitLens](/gitlens/gl-features-pull-requests-and-collaboration/#code-suggest)
   - [gitkraken.dev](/gk-dev/gk-dev-home/#code-suggest)
 
 <figure>
